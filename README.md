@@ -27,16 +27,3 @@ As a sound designer, 'Fighting 1vs1 Game' highlights my skills in creating sound
 
 
 
-
-Audio
-
-
-Tools
-
-
-Software and Tools Used
-Unreal Engine, C++, WWise, Ableton Live, and Rider were the primary software and tools used in the development of "Fighting 1vs1 Game." These powerful tools allowed me to create a visually stunning and sonically rich game that demonstrates my technical expertise and creative abilities.
-
-Credits
-"Fighting 1vs1 Game" was developed solely by me, Carlos Santiago. I composed the music and created the sound assets using Boom library and personal recordings. The character meshes and animations were taken from Mixamo, while the location assets and props were sourced from Quixel. You can find more of my work at www.carlossantiagom.com.
-
