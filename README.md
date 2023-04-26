@@ -5,22 +5,38 @@
 "Fighting 1vs1 Game"  is a fighting game based in Mortal Kombat style game. Players battle each other using punches, kicks, and combos.
 
 ## Audio
-The sounds for the characters were made with differentt sound libraries and personal recordings, then implented and mixed in WWise. then created events to trigger in unreal engine. Triggering events where implemented in C++.
+At the heart of the game's audio is a meticulously crafted soundscape, featuring sounds that were created in Ableton Live using a combination of sound libraries and personal recordings. These sounds were then implemented and mixed in WWise, and C++ was used to trigger audio events in Unreal Engine. As a sound designer, I took great care in ensuring that the audio complemented the game's visuals and gameplay, and that it enhanced the player's overall experience.
 
-## Tools
-For this game I Used Unreal Engine C++ to make the game mechanics, health system, characters movements, damage system, trigger animations, trigger Wwise audio events.
-Minimal use of blueprints was one of the main objectives with the objective of learn and demostration.
-For things like POst Wwise audio events would be esiaer to do it on blueprints.
+## Game development and Middleware
+I used Unreal Engine and C++ to create the game mechanics, character movements, health system, damage system, and trigger animations. I also implemented WWise audio events using C++. Minimal use of blueprints was one of my main objectives, as I wanted to demonstrate my proficiency in programming. However, I also recognize the benefits of using blueprints for certain tasks.
+
 
 ## List of softwares and tools used
-Unreal Engine
-C++
-WWise
-Ableton Live
+Unreal Engine,
+C++,
+WWise,
+Ableton Live,
 Rider
+
+## Conclusion
+As a sound designer, 'Fighting 1vs1 Game' highlights my skills in creating sound assets and implementing them using programming languages. I'm eager to bring my technical expertise, passion for continuous learning, and creativity to a new sound design role. I'm confident that my experience developing this game demonstrates my potential to excel in the industry.
 
 
 ### Credits
-Fighting 1vs1 Game was developed by Carlos Santiago. Music composed by Carlos Santiago. Sound assets created with Boom library and personal recordings. Animations and Character Meshes were taken from Mixamo. Location assets and props taken from Quixel.
+"Fighting 1vs1 Game" was developed solely by me, Carlos Santiago. I composed the music and created the sound assets using Boom library and personal recordings. The character meshes and animations were taken from Mixamo, while the location assets and props were sourced from Quixel. You can find more of my work at www.carlossantiagom.com.
 
-www.carlossantiagom.com
+
+
+
+Audio
+
+
+Tools
+
+
+Software and Tools Used
+Unreal Engine, C++, WWise, Ableton Live, and Rider were the primary software and tools used in the development of "Fighting 1vs1 Game." These powerful tools allowed me to create a visually stunning and sonically rich game that demonstrates my technical expertise and creative abilities.
+
+Credits
+"Fighting 1vs1 Game" was developed solely by me, Carlos Santiago. I composed the music and created the sound assets using Boom library and personal recordings. The character meshes and animations were taken from Mixamo, while the location assets and props were sourced from Quixel. You can find more of my work at www.carlossantiagom.com.
+
