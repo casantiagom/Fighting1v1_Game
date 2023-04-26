@@ -1,4 +1,4 @@
-##Fighting 1vs1 Game -> Video game sample here -> https://www.youtube.com/watch?v=1aQZa9GtN54
+##Fighting 1vs1 Game -> video sample here -> https://www.youtube.com/watch?v=1aQZa9GtN54
 
 
 #Description
